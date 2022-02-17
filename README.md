@@ -1,2 +1,2 @@
 # CUDA11_bin
-bin folder of CUDA11.2 (Windows10)
+bin folder of CUDA (Windows10)
